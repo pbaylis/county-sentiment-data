@@ -18,10 +18,10 @@ In total, the dataset includes 6,972,641 observations and represents 3,456,549,0
 
 The figure below shows the number of tweets included in the data over time. There are a few gaps, typically due to my connection to the API failing for one reason or other. The downward trend in the number of tweets is (I think) due to a combination of declining Twitter activity during this time period and a smaller proportion of tweets being geolocated as a result of changes to the Twitter interface
 
-![Number of geolocated tweets over time](img/tweets-ts.png){width=50%}
+![Number of geolocated tweets over time](img/tweets-ts.png)
 
 The maps below show the spatial distributions of the number of tweets and average sentiment.
 
-![Number of tweets by county](img/tweets-map.png){width=75%}
+![Number of tweets by county](img/tweets-map.png)
 
-![Average sentiment by county](img/sent-map.png){width=75%}
+![Average sentiment by county](img/sent-map.png)
